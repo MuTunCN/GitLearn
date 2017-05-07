@@ -7,3 +7,4 @@
 6. git log
 7. git reset 'HEAD^'(^'s number mean how many version you reset) OR 'commit id'
 8. git reflog (commed history)
+change
