@@ -11,3 +11,4 @@
 10. git reset HEAD `file`(reset all chage after add)
 11. git rm `file` (delete file)
 12. git remote add origin `address`
+13. git push -u origin master (the first push)
