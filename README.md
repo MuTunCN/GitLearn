@@ -13,3 +13,4 @@
 12. git remote add origin `address`
 13. git push -u origin master (the first push use `-u`)
 14. git clone `address`
+15. git checkout -b `dev` (equal git branch `dev`;git checkout `dev` )
