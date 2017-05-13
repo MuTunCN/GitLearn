@@ -21,4 +21,5 @@
 20. git stash list
 21. git stash pop (equals git stash apply ; git stash drop)
 22. git remote -v (show remote git address)
-23. git push origin master 
+23. git push origin master
+24. git pull 
