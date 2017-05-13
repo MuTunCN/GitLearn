@@ -12,3 +12,4 @@
 11. git rm `file` (delete file)
 12. git remote add origin `address`
 13. git push -u origin master (the first push use `-u`)
+14. git clone `address`
