@@ -16,4 +16,5 @@
 15. git checkout -b `dev` (equal git branch `dev`;git checkout `dev` )
 16. git merge master (merge dev in master)
 17. git branch -d dev(delete dev branch)
-master branch
+
+
