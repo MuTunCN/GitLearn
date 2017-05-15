@@ -22,4 +22,7 @@
 21. git stash pop (equals git stash apply ; git stash drop)
 22. git remote -v (show remote git address)
 23. git push origin master
-24. git pull 
+24. git pull
+25. git tag -a `tagName` -m `tag discribe`
+26. git show `tagName`
+27. git push origin `tagName` 
